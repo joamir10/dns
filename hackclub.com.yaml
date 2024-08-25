@@ -1,4 +1,8 @@
 ---
+gharbia.hackclub.com:
+  - ttl: 600
+    type: CNAME
+    value: https://www.facebook.com/GharbiaHackClub/.
 "":
   - type: ALIAS
     value: cname.vercel-dns.com.
